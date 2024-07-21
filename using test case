@@ -1,0 +1,12 @@
+Adding Tasks:
+Test case 1: Add a single task (e.g., "Buy milk")
+Test case 2: Add multiple tasks (e.g., "Walk the dog", "Do laundry")
+Displaying Tasks:
+Test case 1: Verify that all tasks are displayed correctly
+Test case 2: Verify that completed tasks are marked as completed
+Completing Tasks:
+Test case 1: Complete a single task (e.g., "Buy milk")
+Test case 2: Complete multiple tasks (e.g., "Walk the dog", "Do laundry")
+Error Handling:
+Test case 1: Try to complete a non-existent task
+Test case 2: Try to add a task with invalid input (e.g., empty string)
